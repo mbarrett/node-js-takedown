@@ -1,7 +1,7 @@
 node-js-takedown
 ================
 
-Me learning Node JS (and Express) innit.
+Me learning <a href="http://nodejs.org/">Node JS</a> (and <a href="http://expressjs.com/">Express</a>) innit.
 
 Continuous deployment shouts to <a href="https://codeship.io/">Codeship<a/> and <a href="https://www.heroku.com/">Heroku</a>.
 
