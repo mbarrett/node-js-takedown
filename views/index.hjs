@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>{{ title }}</h1>
+
+    <uL>
+    	<li><a href="/200">OK response</a></li>
+    	<li><a href="/500">500 response</a></li>
+    	<li><a href="/me?age=21">Passing querystrings</a></li>
+      <li><a href="/me/50">Passing params</a></li>
+    </ul>
+  </body>
+</html>
