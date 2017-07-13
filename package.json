@@ -14,5 +14,8 @@
     "debug": "~2.0.0",
     "hjs": "~0.0.6",
     "less-middleware": "1.0.x"
+  },
+  "engines": {
+    "node": "4.8.4"
   }
 }
